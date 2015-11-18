@@ -17,5 +17,5 @@ A simple set of scripts to create create and block many users in GNU/Linux.
 
 3. **Read log file**
 	
-	Open log file to review the usernames and passowords created.
+	Open log file to review the usernames and passwords created.
 	
