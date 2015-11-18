@@ -15,4 +15,5 @@ Create a text file with a column with new usernames, REMEMBER One per line.
 	```
 
 3. **Read log file**
+
 Open log file to review the usernames and passowords created.
